@@ -10,15 +10,15 @@
 
 "ICML":
   url: https://icml.cc/
-  color: "#00ffbb"
+  color: "#0000ff"
 
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#ffdd00"
+  color: "#05a1f5"
 
 "CPAIOR":
   url: https://cpaior.org/
   color: "#ff94f1"
 
 "Under review":
-  color: "#9497ff"
+  color: "#f58105"
