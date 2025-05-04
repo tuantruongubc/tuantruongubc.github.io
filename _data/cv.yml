@@ -5,7 +5,7 @@
       institution: The University of British Columbia, Canada
       year: 2020 - 2024
       description:
-        - GPA: 4.1/4.33
+        - GPA 4.1/4.33 (87%)
 
 - title: Experience
   type: time_table
@@ -14,26 +14,34 @@
       institution: Qualcomm AI, Hanoi, Vietnam
       year: 2024
       description:
-        - Worked with Prof. Tan Nguyen and Prof. Trung Le on Mixture of Expert and Parameter-efficient Fine-tuning.
+        - Worked with Prof. Tan Nguyen and Prof. Dinh Phung on Mixture of Expert and Parameter-efficient Fine-tuning.
     - title: AI Research Resident
       institution: VinAI, Hanoi, Vietnam
       year: 2022 - 2024
       description:
-        - Worked with Prof. Trung Le on Learning Theory and Parameter-efficient Fine-tuning.
+        - Worked with Prof. Trung Le on Bayesian Inference, Optimization, and Parameter-efficient Fine-tuning.
     - title: Undergraduate Research Assistant
       institution: The University of British Columbia, BC, CA
       year: 2022 - 2023
       description:
         - Worked with Prof. Kevin Leyton-Brown on SAT Solver using Reinforcement Learning.
+    - title: Teaching Assistant
+      institution: The University of British Columbia, BC, CA
+      year: 2023
+      description: 
+        - Teaching Assistant for CPSC 340 - Machine Learning and Data Mining
     - title: AI Research Resident
       institution: FPT Software, Hanoi, Vietnam
       year: 2020 - 2022
       description:
-        - Worked with Prof. Hung Tran-The on Contextual Bandits and Reinforcement Learning.
+        - Worked with Prof. Hung Tran-The on Contextual Bandits and Offline Reinforcement Learning.
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - First Runner-up in DENSO Factory Hacks Hackathon Challenge
     - year: 2023
       items:
         - UBC Trek Excellence Scholarship for Continuing Students
