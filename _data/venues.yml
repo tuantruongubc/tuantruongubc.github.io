@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"ICML":
+  color: "#00ffbb"
+
+"NeurIPS":
+  color: "#ffdd00"
+
+"CPAIOR":
+  color: "#ff94f1"
+
+"Under review":
+  color: "#9497ff"
