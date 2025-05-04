@@ -32,3 +32,19 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"trung":
+  - firstname: ["Trung", "T.", "T. L.", "Trung Le"]
+    url: https://research.monash.edu/en/persons/trung-le
+
+"kevin":
+  - firstname: ["Kevin", "K.", "K. L.", "Kevin Leyton-Brown"]
+    url: https://www.cs.ubc.ca/~kevinlb/
+
+"tan":
+  - firstname: ["Tan", "T.", "T. N.", "Tan Minh Nguyen"]
+    url: https://tanmnguyen89.github.io/
+
+"dinh":
+  - firstname: ["Dinh", "D.", "D. P.", "Dinh Phung"]
+    url: https://research.monash.edu/en/persons/dinh-phung
