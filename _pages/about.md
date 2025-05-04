@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: tuan4.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -31,4 +31,4 @@ Hi! I'm Tuan Truong — but you can call me Tuna 🐟.
 
 I'm a Machine Learning Research Resident at [Qualcomm AI Research](https://www.qualcomm.com/research), where I work with Professors [Tan Nguyen](https://tanmnguyen89.github.io/) and [Dinh Phung](https://tanmnguyen89.github.io/). My research interests lie in the foundations of machine learning, with a particular focus on **transfer learning** and **learning theory**.
 
-Previously, I was a Machine Learning Research Resident at [VinAI](https://www.vinai.io/), working with Professor [Trung Le](https://research.monash.edu/en/persons/trung-le). In 2024, I earned a Combined Honours degree in Mathematics and Computer Science from [The University of British Columbia](https://www.ubc.ca/). During my time here, I also worked as a research assistant under the supervision of Professor [Kevin Leyton-Brown](https://www.cs.ubc.ca/~kevinlb/index.html). Before all that, I was a proud math Olympian — winning a bronze medal 🥉 at the [International Mathematical Olympiad (IMO) 2018](https://www.imo-official.org/).
+Previously, I was a Research Resident at [VinAI](https://www.vinai.io/), working with Professor [Trung Le](https://research.monash.edu/en/persons/trung-le). In 2024, I earned a Combined Honours degree in Mathematics and Computer Science from [The University of British Columbia](https://www.ubc.ca/). During my time here, I also worked as a Research Assistant under the supervision of Professor [Kevin Leyton-Brown](https://www.cs.ubc.ca/~kevinlb/index.html). Before all that, I was a proud math Olympian — winning a bronze medal 🥉 at the [International Mathematical Olympiad (IMO) 2018](https://www.imo-official.org/).
