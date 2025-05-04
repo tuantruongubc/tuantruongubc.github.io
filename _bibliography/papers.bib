@@ -23,3 +23,33 @@
   year={2025}
 }
 
+@article{ibdr,
+  bibtex_show={true},
+  abbr={ICML},
+  title={Promoting Ensemble Diversity with Interactive Bayesian Distributional Robustness for Fine-tuning Foundation Models},
+  author={Tuan Truong* and Quan Pham* and Quyen Tran* and Tan Nguyen and Dinh Phung and Trung Le},
+  journal={International Conference on Machine Learning (ICML)},  
+  abstract={We introduce Interactive Bayesian Distributional Robustness (IBDR), a novel Bayesian inference framework that allows modeling the interactions between particles, thereby enhancing ensemble quality through increased particle diversity. IBDR is grounded in a generalized theoretical framework that connects the distributional population loss with the approximate posterior, motivating a practical dual optimization procedure that enforces distributional robustness while fostering particle diversity. We evaluate IBDR's performance against various baseline methods using the VTAB-1K benchmark and the common reasoning language task. The results consistently show that IBDR outperforms these baselines, underscoring its effectiveness in real-world applications.},
+  pdf={https://openreview.net/pdf?id=yTWqL3XHCC},
+  year={2025}
+}
+
+@inproceedings{mcfs,
+author = {Cameron, Chris and Hartford, Jason and Lundy, Taylor and Truong, Tuan and Milligan, Alan and Chen, Rex and Leyton-Brown, Kevin},
+title = {UNSAT Solver Synthesis via Monte Carlo Forest Search},
+abbr={CPAIOR},
+year = {2024},
+isbn = {978-3-031-60596-3},
+publisher = {Springer-Verlag},
+address = {Berlin, Heidelberg},
+url = {https://doi.org/10.1007/978-3-031-60597-0_12},
+doi = {10.1007/978-3-031-60597-0_12},
+abstract = {We introduce Monte Carlo Forest Search (MCFS), a class of reinforcement learning (RL) algorithms for learning policies in tree MDPs, for which policy execution involves traversing an exponential-sized tree. Examples of such problems include proving unsatisfiability of a SAT formula; counting the number of solutions of a satisfiable SAT formula; and finding the optimal solution to a mixed-integer program. MCFS algorithms can be seen as extensions of Monte Carlo Tree Search (MCTS) to cases where, rather than finding a good path (solution) within a tree, the problem is to find a small tree within a forest of candidate trees. We instantiate and evaluate our ideas in an algorithm that we dub Knuth Synthesis, an MCFS algorithm that learns DPLL branching policies for solving the Boolean satisfiability (SAT) problem, with the objective of achieving good average-case performance on a given distribution of unsatisfiable problem instances. Knuth Synthesis is the first RL approach to avoid the prohibitive costs of policy evaluations in an exponentially-sized tree, leveraging two key ideas: first, we estimate tree size by randomly sampling paths and measuring their lengths, drawing on an unbiased approximation due to Knuth (1975); second, we query a strong solver at a user-defined depth rather than learning a policy across the whole tree, to focus our policy search on early decisions that offer the greatest potential for reducing tree size. We matched or exceeded the performance of a strong baseline on three well-known SAT distributions, facing problems that were two orders of magnitude more challenging than those addressed in previous RL studies.},
+booktitle = {Integration of Constraint Programming, Artificial Intelligence, and Operations Research: 21st International Conference, CPAIOR 2024, Uppsala, Sweden, May 28–31, 2024, Proceedings, Part I},
+pages = {170–189},
+numpages = {20},
+location = {Uppsala, Sweden}
+}
+
+
+
